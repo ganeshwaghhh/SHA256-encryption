@@ -23,11 +23,16 @@ git clone https://github.com/GaneshWagh0/SHA256-encryption.git
 ```
 cd SHA256-encryption
 ```
+3. Give permission to install.sh to run it
+ ```
+chmod +install.sh
+```
+
 
 3. Run the provided installation script to install dependencies, compile the program, and run it:
 
 ```
-./encryption.sh
+./install.sh
 ```
 
 ## Usage
