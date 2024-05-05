@@ -46,6 +46,5 @@ cd SHA256-encryption
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
 
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
